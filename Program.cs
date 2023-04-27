@@ -80,7 +80,7 @@ namespace RockPaperScissors
                 }
                 else
                 {
-                    Console.WriteLine("Letter contains '" + select + "' is not on the list!");
+                    Console.WriteLine("Input contains '" + select + "' is not on the list!");
                     break;
                 }
             }
